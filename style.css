@@ -4,3 +4,5 @@
 .time-change-slot{height:22px;margin-top:8px}.time-change{display:inline-block;font-size:14px;color:var(--yellow);font-weight:600;animation:time-rise 3s ease-out both}.time-confirmed{animation:timer-confirm .7s ease-out}.timer-note{margin-top:10px}@keyframes time-rise{0%{opacity:0;transform:translateY(5px)}12%,78%{opacity:1;transform:translateY(0)}100%{opacity:0;transform:translateY(-5px)}}@keyframes timer-confirm{0%,100%{color:#f7f7f7}35%{color:var(--yellow)}}@media(prefers-reduced-motion:reduce){.time-change,.time-confirmed{animation:none}}
 
 footer .project-links{justify-content:center;align-items:center;gap:24px;margin-bottom:28px}footer .x-link{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px}footer .x-link img{display:block}footer .launch-ca{font-size:14px;color:#eee;min-width:0}footer .launch-ca>span{color:#969696}
+
+.claim-panel{margin-top:24px;text-align:center}.claim-panel .wallet{min-width:180px}.claim-panel .entry-note{margin-top:12px}
