@@ -8,3 +8,5 @@ footer .project-links{justify-content:center;align-items:center;gap:24px;margin-
 .claim-panel{margin-top:24px;text-align:center}.claim-panel .wallet{min-width:180px}.claim-panel .entry-note{margin-top:12px}
 
 .round-label{font-size:13px;color:var(--muted);margin:12px 0 0;text-align:center}
+
+.language-toggle{background:none;border:1px solid #414141;border-radius:6px;padding:9px 12px;color:#ddd;font:inherit;font-size:12px;white-space:nowrap}.header-right{gap:12px}@media(max-width:600px){.header{height:auto;min-height:88px;gap:16px;flex-wrap:wrap;padding:20px 0}.header-right{gap:8px;flex-wrap:wrap}.language-toggle{padding:8px 10px}}html[lang="zh-CN"] .rules{line-height:1.8}
