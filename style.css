@@ -6,3 +6,5 @@
 footer .project-links{justify-content:center;align-items:center;gap:24px;margin-bottom:28px}footer .x-link{display:inline-flex;align-items:center;justify-content:center;width:44px;height:44px}footer .x-link img{display:block}footer .launch-ca{font-size:14px;color:#eee;min-width:0}footer .launch-ca>span{color:#969696}
 
 .claim-panel{margin-top:24px;text-align:center}.claim-panel .wallet{min-width:180px}.claim-panel .entry-note{margin-top:12px}
+
+.round-label{font-size:13px;color:var(--muted);margin:12px 0 0;text-align:center}
