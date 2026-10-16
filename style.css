@@ -37,3 +37,5 @@ footer .project-links{justify-content:center;align-items:center;gap:24px;margin-
 @media(max-width:380px){.header-right{gap:8px}.language-toggle{font-size:11px}.header-right>.wallet{font-size:11px;padding:9px}}
 
 .wallet-feedback{text-align:center;font-size:13px;line-height:1.7;color:var(--muted);margin:18px auto 0;max-width:690px;overflow-wrap:anywhere}.wallet-feedback[hidden]{display:none}
+
+.wallet-menu{position:relative}.wallet-actions{position:absolute;right:0;top:calc(100% + 8px);z-index:10;min-width:150px;padding:5px;background:#141414;border:1px solid #414141;border-radius:6px}.wallet-actions[hidden]{display:none}.disconnect-wallet{width:100%;border:0;background:transparent;color:#eee;padding:12px;text-align:center;white-space:nowrap;font-size:13px}.wallet-actions button:hover{background:#242424}
